@@ -1,0 +1,11 @@
+D:\Documentos\practica\Consola\bin\Debug\Consola.exe.config
+D:\Documentos\practica\Consola\bin\Debug\Consola.exe
+D:\Documentos\practica\Consola\bin\Debug\Consola.pdb
+D:\Documentos\practica\Consola\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\practica\Consola\bin\Debug\Newtonsoft.Json.xml
+D:\Documentos\practica\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+D:\Documentos\practica\Consola\obj\Debug\Consola.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\practica\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+D:\Documentos\practica\Consola\obj\Debug\Consola.csproj.CopyComplete
+D:\Documentos\practica\Consola\obj\Debug\Consola.exe
+D:\Documentos\practica\Consola\obj\Debug\Consola.pdb

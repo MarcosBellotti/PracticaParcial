@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16596913-6f23-458b-9c5a-fb4e05c03c2c": {
+      "ProjectGuid": "16596913-6f23-458b-9c5a-fb4e05c03c2c",
+      "DisplayName": "practica",
+      "ColorIndex": 0
+    },
+    "04be0f02-97f2-4c64-b5a1-a37a798a8457": {
+      "ProjectGuid": "04be0f02-97f2-4c64-b5a1-a37a798a8457",
+      "DisplayName": "Logica",
+      "ColorIndex": 1
+    },
+    "3154c0df-23d1-4218-b9d3-4c5714cfd6eb": {
+      "ProjectGuid": "3154c0df-23d1-4218-b9d3-4c5714cfd6eb",
+      "DisplayName": "Consola",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
